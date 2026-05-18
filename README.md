@@ -10,9 +10,12 @@ posts to [Formspree](https://formspree.io) via `fetch`.
 ## Structure
 
 ```
-index.html      markup
-css/style.css   styles
-js/main.js      contact sheet + form handling
+index.html          markup, meta tags, JSON-LD
+css/style.css       styles
+js/main.js          contact sheet + form handling
+assets/og-image.png social share image
+robots.txt          crawl directives
+sitemap.xml         sitemap
 ```
 
 ## Develop
